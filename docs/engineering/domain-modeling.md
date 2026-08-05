@@ -1,15 +1,3 @@
-Quickstart:
-
-```bash
-npx skills add mattpocock/skills --skill=domain-modeling
-```
-
-```bash
-npx skills update domain-modeling
-```
-
-[Source](https://github.com/mattpocock/skills/tree/main/skills/engineering/domain-modeling)
-
 ## What it does
 
 `domain-modeling` builds and sharpens a project's **ubiquitous language** as you design — challenging fuzzy terms, stress-testing relationships with concrete scenarios, and writing the glossary and decisions down the moment they crystallise.

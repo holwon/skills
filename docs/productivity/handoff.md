@@ -1,15 +1,3 @@
-Quickstart:
-
-```bash
-npx skills add mattpocock/skills --skill=handoff
-```
-
-```bash
-npx skills update handoff
-```
-
-[Source](https://github.com/mattpocock/skills/tree/main/skills/productivity/handoff)
-
 ## What it does
 
 `handoff` compacts the current conversation into a **handoff document** — a single write-up a fresh agent can read to pick up the work where you left off.
